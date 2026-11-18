@@ -1,4 +1,4 @@
-participant_id	age	sex	hand	weight	height
+﻿participant_id	age	sex	hand	weight	height
 sub-VP01	n/a	n/a	n/a	n/a	n/a
 sub-VP02	n/a	n/a	n/a	n/a	n/a
 sub-VP03	n/a	n/a	n/a	n/a	n/a
@@ -41,3 +41,4 @@ sub-VP50	n/a	n/a	n/a	n/a	n/a
 sub-VP51	n/a	n/a	n/a	n/a	n/a
 sub-VP52	n/a	n/a	n/a	n/a	n/a
 sub-VP53	n/a	n/a	n/a	n/a	n/a
+

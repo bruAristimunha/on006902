@@ -2,7 +2,7 @@
     "TaskName": "pain",
     "Manufacturer": "NIRx Medizintechnik GmbH",
     "PowerLineFrequency": "n/a",
-    "SamplingFrequency": 7.62939,
+    "SamplingFrequency": 7.627765064836003,
     "SoftwareFilters": "n/a",
     "RecordingDuration": 2300.4117,
     "RecordingType": "continuous",
